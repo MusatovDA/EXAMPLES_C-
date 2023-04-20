@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\bin\Debug\net6.0\Example001_HolloConsole.exe
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\bin\Debug\net6.0\Example001_HolloConsole.deps.json
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\bin\Debug\net6.0\Example001_HolloConsole.runtimeconfig.json
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\bin\Debug\net6.0\Example001_HolloConsole.dll
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\bin\Debug\net6.0\Example001_HolloConsole.pdb
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.dll
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\refint\Example001_HolloConsole.dll
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.pdb
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\Example001_HolloConsole.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Examples\Example001_HolloConsole\obj\Debug\net6.0\ref\Example001_HolloConsole.dll
